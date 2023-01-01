@@ -1,7 +1,7 @@
 # mypkg
 * ロボットシステム学の授業用のROS2パッケージ
 
-#パッケージのインストール方法
+# パッケージのインストール方法
 * ①ワークスペースを作成する
 ```
 $ mkdir -p <ros2のワークスペース名>/src
@@ -15,11 +15,11 @@ $ cd ~/<ros2のワークスペース名>/src
 $ git clone https://github.com/shokonosu/mypkg.git
 ```
 
-#トピックの名前と型について
+# トピックの名前と型について
 * トピック:/countup
 * 型:int16
 
-#実行方法
+# 実行方法
 * 端末1
 ```
 $ ros2 run mypkg talker
