@@ -15,7 +15,7 @@ $ cd ~/<ros2のワークスペース名>/src
 $ git clone https://github.com/shokonosu/mypkg.git
 ```
 
-# トピックの名前と型について
+# トピックの名前とメッセージの型について
 * トピック:/countup
 * 型:int16
 
