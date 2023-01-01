@@ -20,11 +20,9 @@ $ git clone https://github.com/shokonosu/mypkg.git
 * 型:int16
 
 # 実行方法
-* 端末1
 ```
-$ ros2 run mypkg talker
+端末1$ ros2 run mypkg talker
 ```
-* 端末2
 ```
-$ ros2 run mypkg listener
+端末2$ ros2 run mypkg listener
 ``` 
