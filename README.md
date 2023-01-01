@@ -19,6 +19,11 @@ $ git clone https://github.com/shokonosu/mypkg.git
 * トピック:/countup
 * 型:int16
 
+# プログラムの原理
+* ①talker(publisher)が数字をカウントする
+* ②トピック(/countup)を経由して送信する
+* ③listener(subscriber)がメッセージをもらって表示
+
 # 実行方法
 ```
 端末1$ ros2 run mypkg talker
