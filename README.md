@@ -31,3 +31,15 @@ $ git clone https://github.com/shokonosu/mypkg.git
 ```
 端末2$ ros2 run mypkg listener
 ``` 
+
+# 必要なソフトウェア
+* os
+  * Ubuntu(Ubuntu22.04)
+
+* ROS2
+
+* Python
+  * Version:3.10.6
+
+# テスト済み環境
+* Ubuntu(Ubuntu22.04) 
