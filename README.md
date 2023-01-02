@@ -1,3 +1,4 @@
+![test](https://github.com/shokonosu/mypkg/actions/workflows/test.yml/badge.svg)
 # mypkg
 * ロボットシステム学の授業用のROS2パッケージ
 
@@ -42,4 +43,8 @@ $ git clone https://github.com/shokonosu/mypkg.git
   * Version:3.10.6
 
 # テスト済み環境
-* Ubuntu(Ubuntu22.04) 
+* Ubuntu(Ubuntu22.04)
+
+# LICENSE
+* このソフトウェアパッケージは、3条項BSDライセンスのもと、再配布及び使用が許可されています。
+* ©2022 Sho Konosu 
